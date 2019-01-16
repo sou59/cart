@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93903bf2-781c-425b-862e-9b27aac8b952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Cart/Basket.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/Basket.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Cart/Product.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/Product.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Cart/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Cart/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Hello.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Hello.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/Math.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Math.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aston/Cart/Basket.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aston/Cart/Basket.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aston/Cart/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aston/Cart/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aston/Hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aston/Hello.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aston/Math.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aston/Math.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="462">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -188,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547635115022</updated>
-      <workItem from="1547635116235" duration="1288000" />
+      <workItem from="1547635116235" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1288000" />
+    <option name="totallyTimeSpent" value="1780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="925" extended-state="6" />
@@ -243,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="462">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
         </state>
       </provider>
     </entry>

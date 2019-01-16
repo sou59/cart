@@ -29,7 +29,7 @@
             "Aston\\": "test/Aston"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "git",
