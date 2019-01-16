@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93903bf2-781c-425b-862e-9b27aac8b952" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Cart/Basket.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/Basket.php.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Cart/Product.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/Product.php.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Cart/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Cart/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Cart/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Hello.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Hello.php.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/Math.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/Math.php.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/test/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="494">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -180,12 +189,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547635115022</updated>
-      <workItem from="1547635116235" duration="6018000" />
+      <workItem from="1547635116235" duration="6402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6018000" />
+    <option name="totallyTimeSpent" value="6402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="138" y="30" width="1771" height="903" extended-state="0" />
@@ -242,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="494">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
